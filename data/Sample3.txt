@@ -1,0 +1,43 @@
+﻿XGID=-Ba-AaB-C-A-cC----adcCb---:0:0:1:21:X:andyhawken   O:Baker
+3:0:0:11:6
+
+Score is X:3 O:0 11 pt.(s) match.
+ +24-23-22-21-20-19------18-17-16-15-14-13-+
+ |       O  X  O  O |   | O              X |
+ |       O  X  O  O |   |                X |
+ |          X  O  O |   |                X |
+ |                O |   |                  |
+ |                  |   |                  |
+ |                  |BAR|                  |
+ |                  |   |                  |
+ |                  |   |                  |
+ |                  |   |    X           O |
+ | X              X |   |    X           O |
+ | X  O     X  O  X |   |    X     X     O |
+ +-1--2--3--4--5--6-------7--8--9-10-11-12-+
+Pip count  X: 154  O: 134 X-O: 3-0/11
+Cube: 1
+X to play 21
+
+    1. XG Roller+  13/10                        eq:-0.541
+      Player:   38.75% (G:9.08% B:0.22%)
+      Opponent: 61.25% (G:18.53% B:0.51%)
+
+    2. XG Roller+  4/2* 2/1                     eq:-0.795 (-0.254)
+      Player:   32.36% (G:5.56% B:0.13%)
+      Opponent: 67.64% (G:16.74% B:0.43%)
+
+    3. 2-ply       10/8 4/3                     eq:-0.720 (-0.179)
+      Player:   34.37% (G:6.50% B:0.10%)
+      Opponent: 65.63% (G:18.30% B:0.50%)
+
+    4. 2-ply       6/4 6/5*                     eq:-0.774 (-0.234)
+      Player:   35.47% (G:8.15% B:0.22%)
+      Opponent: 64.53% (G:23.80% B:0.89%)
+
+    5. 2-ply       10/9 4/2*                    eq:-0.799 (-0.259)
+      Player:   34.33% (G:7.32% B:0.14%)
+      Opponent: 65.67% (G:22.05% B:0.76%)
+
+
+eXtreme Gammon Version: 2.10, MET: Kazaross XG2

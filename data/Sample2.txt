@@ -1,0 +1,36 @@
+﻿XGID=-B-BAaD-a---cBA--bbdB--bA-:0:0:-X:Baker   O:andyhawken
+1:00:0:0:0:11:6
+
+Score is X:0 O:0 11 pt.(s) match.
+ +24-23-22-21-20-19------18-17-16-15-14-13-+
+ | O     O  O  X  O |   |    X           X |
+ | O     O        O |   |                X |
+ |                O |   |                X |
+ |                O |   |                  |
+ |                  |   |                  |
+ |                  |BAR|                  |
+ |                  |   |                  |
+ |                X |   |                  |
+ |                X |   |                  |
+ |    X        O  X |   | X  X           O |
+ | O  X        O  X |   | X  X        O  O |
+ +-1--2--3--4--5--6-------7--8--9-10-11-12-+
+Pip count  X: 134  O: 140 X-O: 0-0/11
+Cube: 1
+X on roll, cube action
+
+Analyzed in XG Roller+
+Player Winning Chances:   62.87% (G:15.85% B:0.76%)
+Opponent Winning Chances: 37.13% (G:10.10% B:0.21%)
+
+Cubeless Equities: No Double=+0.322, Double=+0.653
+
+Cubeful Equities:
+       No double:     +0.483
+       Double/Take:   +0.380 (-0.103)
+       Double/Pass:   +1.000 (+0.517)
+
+Best Cube action: No double / Take
+Percentage of wrong pass needed to make the double decision right: 14.2%
+
+eXtreme Gammon Version: 2.10, MET: Kazaross XG2
